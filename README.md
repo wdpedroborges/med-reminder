@@ -1,8 +1,7 @@
 ![badge](https://img.shields.io/github/watchers/wdpedroborges/med-reminder?style=social)
 ![badge](https://img.shields.io/github/stars/wdpedroborges/med-reminder?style=social)
 ![badge](https://img.shields.io/github/license/wdpedroborges/med-reminder)
-![badge](https://img.shields.io/badge/powered%20by-vite-blue)
-![badge](https://img.shields.io/badge/powered%20by-react-native-blue)
+![badge](https://img.shields.io/badge/powered%20by-reactnative-blue)
 
 # Med Reminder
 

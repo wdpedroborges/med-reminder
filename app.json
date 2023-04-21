@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "med-reminder",
+    "slug": "med-reminder",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.medreminder.localnotification"
+     },
+    "plugins": [
+      [
+        "expo-notifications"
+      ]
+    ]
+  }
+}
